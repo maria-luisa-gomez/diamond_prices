@@ -18,7 +18,7 @@
 
 
 
-![alt text](https://github.com/maria-luisa-gomez/diamond_price/blob/images/diamond_price_pred.png?raw=true)
+![alt text](https://github.com/maria-luisa-gomez/diamond_prices/blob/main/images/diamond_price_pred.png?raw=true)
 
 
 
