@@ -2,6 +2,8 @@
 
 
 <img src="https://www.cornel1801.com/videosong/Gentlemen-Prefer-Blondes-Diamonds-Are-a-Girl-s-Best-Friend/1.jpg" width="900" height="600">
+
+
 ### Objective
 
 
