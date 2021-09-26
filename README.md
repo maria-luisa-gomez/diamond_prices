@@ -18,7 +18,8 @@
 
 
 
-API Documentation -> Doc.md
+![alt text](https://github.com/maria-luisa-gomez/diamond_price/blob/images/diamond_price_pred.png?raw=true)
+
 
 
 ## Libraries
