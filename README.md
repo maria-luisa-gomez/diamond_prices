@@ -1,6 +1,6 @@
 # Diamonds Price prediction
 
-![portada](https://www.cornel1801.com/videosong/Gentlemen-Prefer-Blondes-Diamonds-Are-a-Girl-s-Best-Friend/1.jpg){:height="50%" width="50%"}
+![portada](https://www.cornel1801.com/videosong/Gentlemen-Prefer-Blondes-Diamonds-Are-a-Girl-s-Best-Friend/1.jpg)
 
 ### Objective
 
@@ -18,7 +18,7 @@
 
 
 
-![alt text](https://github.com/maria-luisa-gomez/diamond_prices/blob/main/images/diamond_price_pred.png?raw=true){:height="50%" width="50%"}
+![alt text](https://github.com/maria-luisa-gomez/diamond_prices/blob/main/images/diamond_price_pred.png?raw=true&s=200)
 
 
 
