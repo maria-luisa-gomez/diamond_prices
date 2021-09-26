@@ -17,7 +17,7 @@
 3 - **3 - Modelling_Algorithms**: sentiment analyis: 
 
 
-<img src="https://github.com/maria-luisa-gomez/diamond_prices/blob/main/images/diamond_price_pred.png" width="900" height="600">
+<img src="https://github.com/maria-luisa-gomez/diamond_prices/blob/main/images/diamond_price_pred.png" width="900" height="500">
 
 
 
