@@ -35,9 +35,10 @@ I have used a Diamonds dataset which contains the prices and other attributes of
 ### STEPS
 
 -  **1 - Exploring_Features.ipynb**:
-       - Explores correlation between variables.
-       - Explores missing and zero values of each variable
-       - Explores more in depth correlation between each categorical variable and price variable using   boxplots
+
+    - Explores correlation between variables.
+    - Explores missing and zero values of each variable
+    - Explores more in depth correlation between each categorical variable and price variable using   boxplots
        
 
 
@@ -55,11 +56,11 @@ I have used a Diamonds dataset which contains the prices and other attributes of
 
 - **3 - Modelling_Algorithms**:
 
-      - Scales variables.
-      - Prepares dataset for training.
-      - Creates correspodent regressor model.
-      - Trains the model to fit data
-      - Test the model on validation data
+   - Scales variables.
+   - Prepares dataset for training.
+   - Creates correspodent regressor model.
+   - Trains the model to fit data
+   - Test the model on validation data
 
 
 <img src="https://github.com/maria-luisa-gomez/diamond_prices/blob/main/images/diamond_price_pred.png" width="900" height="500">
