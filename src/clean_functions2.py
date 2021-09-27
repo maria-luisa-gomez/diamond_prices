@@ -6,8 +6,8 @@ import pandas as pd
 def featuring_cleaning(data):
 
     """1 - Drops "id" column from dataframe.
-       2 - Convert categorial columns to numerical values "get_dummies".
-       3 - Replace "x", "y", "z" zero values by "cut", "color","clarity" median.
+       2 - Convertx categorial columns to numerical values "get_dummies".
+       3 - Replaces "x", "y", "z" zero values by "cut", "color","clarity" median.
        4 - Creates a new column named "volume" which is the multiplication of x, y and z.
        5 - Drops "x", "y", "z" "table" and "depth" columns.
     """
